@@ -1,3 +1,6 @@
 [submodule "homework_1"]
 	path = homework_1
 	url = https://github.com/AleRus19/homework_1
+[submodule "C_04"]
+	path = C_04
+	url = https://github.com/AleRus19/C_04
